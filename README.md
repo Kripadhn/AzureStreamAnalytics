@@ -1,0 +1,5 @@
+Apart from Real-time and Batch processing, it is also important to note that Azure Stream Analytics supports a variety of input sources including Event Hubs, IoT Hubs, Blob Storage, and others. Similarly, it supports multiple output destinations such as Event Hubs, Blob Storage, Power BI, and others. The above code samples show how to create an input stream from Blob Storage and an output stream to Blob Storage, but the process would be similar for other input and output sources.
+
+Additionally, the streaming query can be customized as per the requirement to perform various data processing and analysis operations such as filtering, aggregation, and joining. Azure Stream Analytics also supports a wide range of built-in functions and user-defined functions for further processing.
+
+To summarize, Azure Stream Analytics provides a flexible and scalable platform for real-time and batch data processing and analysis. By using Azure Stream Analytics, you can easily process and analyze large amounts of data and gain valuable insights into your data.
